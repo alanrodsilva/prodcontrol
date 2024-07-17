@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "promo-controle",
+    "slug": "snack-96058aeb-7d47-4b98-ae7b-696778b37d26",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.alanrodrigues.snack96058aeb7d474b98ae7b696778b37d26"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "App criado com a finalidade de otimizar o trabalho dos repositores e promotores",
+    "extra": {
+      "eas": {
+        "projectId": "8a5d7754-350e-40f8-a14c-7be47a3ffe2e"
+      }
+    }
+  }
+}
